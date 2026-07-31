@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/rafaelhorvat/__code__/chat_backup/chat_backup/builder.py", line 92, in <module>
+    conn = sqlite3.connect(WA_DB)
+sqlite3.DatabaseError: authorization denied
+Traceback (most recent call last):
+  File "/Users/rafaelhorvat/__code__/chat_backup/chat_backup/builder.py", line 92, in <module>
+    conn = sqlite3.connect(WA_DB)
+sqlite3.DatabaseError: authorization denied
