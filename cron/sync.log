@@ -190,3 +190,77 @@ Conversations: 58
 Total messages: 13106
 Audio files (voice msgs): 836
 Total media files: 1574
+Signal: 16 convos
+WhatsApp (Mac): 56 convos
+Added Dulcesita (iPhone): 10992 msgs, 771 voice msgs
+Added Simon Baumann (iPhone): 1119 msgs, 6 voice msgs
+
+Written: /Users/rafaelhorvat/__code__/chat_backup/data/index.html
+Conversations: 72
+Total messages: 14260
+Audio files (voice msgs): 842
+Total media files: 1606
+Signal: 16 convos
+WhatsApp (Mac): 56 convos
+Added Dulcesita (iPhone): 10992 msgs, 771 voice msgs
+Added Simon Baumann (iPhone): 1119 msgs, 6 voice msgs
+
+Written: /Users/rafaelhorvat/__code__/chat_backup/data/index.html
+Conversations: 72
+Total messages: 14261
+Audio files (voice msgs): 843
+Total media files: 1607
+Signal: 16 convos
+WhatsApp (Mac): 56 convos
+Added Dulcesita (iPhone): 10992 msgs, 771 voice msgs
+Added Simon Baumann (iPhone): 1119 msgs, 6 voice msgs
+
+Written: /Users/rafaelhorvat/__code__/chat_backup/data/index.html
+Conversations: 72
+Total messages: 14271
+Audio files (voice msgs): 843
+Total media files: 1610
+Signal: 16 convos
+WhatsApp (Mac): 56 convos
+Added Dulcesita (iPhone): 10992 msgs, 771 voice msgs
+Added Simon Baumann (iPhone): 1119 msgs, 6 voice msgs
+
+Written: /Users/rafaelhorvat/__code__/chat_backup/data/index.html
+Conversations: 72
+Total messages: 14273
+Audio files (voice msgs): 844
+Total media files: 1611
+  File "/Users/rafaelhorvat/__code__/chat_backup/chat_backup/builder.py", line 461
+    </html>"""
+              ^
+SyntaxError: f-string: single '}' is not allowed
+Signal: 16 convos
+Traceback (most recent call last):
+  File "/Users/rafaelhorvat/__code__/chat_backup/chat_backup/builder.py", line 109, in <module>
+    conn = sqlite3.connect(WA_DB)
+sqlite3.DatabaseError: authorization denied
+Signal: 16 convos
+Traceback (most recent call last):
+  File "/Users/rafaelhorvat/__code__/chat_backup/chat_backup/builder.py", line 109, in <module>
+    conn = sqlite3.connect(WA_DB)
+sqlite3.DatabaseError: authorization denied
+Signal: 16 convos
+WhatsApp (Mac): 56 convos
+Added Dulcesita (iPhone): 10992 msgs, 771 voice msgs
+Added Simon Baumann (iPhone): 1119 msgs, 6 voice msgs
+
+Written: /Users/rafaelhorvat/__code__/chat_backup/data/index.html
+Conversations: 72
+Total messages: 14273
+Audio files (voice msgs): 844
+Total media files: 1611
+Signal: 16 convos
+WhatsApp (Mac): 56 convos
+Added Dulcesita (iPhone): 10992 msgs, 771 voice msgs
+Added Simon Baumann (iPhone): 1119 msgs, 6 voice msgs
+
+Written: /Users/rafaelhorvat/__code__/chat_backup/data/index.html
+Conversations: 72
+Total messages: 14273
+Audio files (voice msgs): 844
+Total media files: 1611
