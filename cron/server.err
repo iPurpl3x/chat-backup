@@ -1,0 +1,3 @@
+127.0.0.1 - - [02/Aug/2026 15:54:03] code 404, message File not found
+127.0.0.1 - - [02/Aug/2026 15:54:03] "GET /index.html HTTP/1.1" 404 -
+127.0.0.1 - - [02/Aug/2026 15:56:51] "GET /index.html HTTP/1.1" 200 -
