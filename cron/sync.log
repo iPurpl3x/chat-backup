@@ -264,3 +264,48 @@ Conversations: 72
 Total messages: 14273
 Audio files (voice msgs): 844
 Total media files: 1611
+Signal: 16 convos
+WhatsApp (Mac): 56 convos
+Added Dulcesita (iPhone): 10992 msgs, 771 voice msgs
+Added Simon Baumann (iPhone): 1119 msgs, 6 voice msgs
+
+Written: /Users/rafaelhorvat/__code__/chat_backup/data/index.html
+Conversations: 72
+Total messages: 14282
+Audio files (voice msgs): 844
+Total media files: 1612
+Signal: 16 convos
+WhatsApp (Mac): 56 convos
+Added Dulcesita (iPhone): 10992 msgs, 771 voice msgs
+Added Simon Baumann (iPhone): 1119 msgs, 6 voice msgs
+
+Written: /Users/rafaelhorvat/__code__/chat_backup/data/index.html
+Conversations: 72
+Total messages: 14282
+Audio files (voice msgs): 844
+Total media files: 1612
+===== TEST RUN Mon Aug  3 09:55:47 AEST 2026 =====
+
+[2026-08-03 09:55:47] ChatBackupSync run
+Signal: 16 convos
+WhatsApp (Mac): 56 convos
+Added Dulcesita (iPhone): 10992 msgs, 771 voice msgs
+Added Simon Baumann (iPhone): 1119 msgs, 6 voice msgs
+
+Written: /Users/rafaelhorvat/__code__/chat_backup/data/index.html
+Conversations: 72
+Total messages: 14282
+Audio files (voice msgs): 844
+Total media files: 1612
+
+[2026-08-03 09:57:42] ChatBackupSync run
+Signal: 16 convos
+WhatsApp (Mac): 56 convos
+Added Dulcesita (iPhone): 10992 msgs, 771 voice msgs
+Added Simon Baumann (iPhone): 1119 msgs, 6 voice msgs
+
+Written: /Users/rafaelhorvat/__code__/chat_backup/data/index.html
+Conversations: 72
+Total messages: 14282
+Audio files (voice msgs): 844
+Total media files: 1612
