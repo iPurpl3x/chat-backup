@@ -7,7 +7,10 @@
     <key>ProgramArguments</key>
     <array>
         <string>/usr/bin/open</string>
-        <string>/Users/rafaelhorvat/__code__/chat_backup/ChatBackupSync.app</string>
+        <string>-gj</string>
+        <string>-a</string>
+        <string>Terminal</string>
+        <string>/Users/rafaelhorvat/__code__/chat_backup/cron/sync.command</string>
     </array>
     <key>StartInterval</key>
     <integer>3600</integer>
